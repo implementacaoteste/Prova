@@ -4,3 +4,5 @@
 
 3 - Crie a branch “Respostas” no repositório local.
 
+4 - Faça o publish da branch.
+
