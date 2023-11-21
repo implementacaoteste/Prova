@@ -2,5 +2,5 @@
 
 2 - Faça o clone do repositório “Prova”.
 
-
+3 - Crie a branch “Respostas” no repositório local.
 
