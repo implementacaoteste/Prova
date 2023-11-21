@@ -19,3 +19,5 @@
 # 5 - O que é pull?
 
 ## Faça o merge da branch “Respostas” para a branch “main”
+
+# 7 - O que é branch?
