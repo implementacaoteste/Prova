@@ -21,3 +21,5 @@
 ## Faça o merge da branch “Respostas” para a branch “main”
 
 # 7 - O que é branch?
+
+# 8 - O que é pull request?
